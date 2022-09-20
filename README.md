@@ -1,7 +1,7 @@
 # DeepLearning.AI-Improving_Deep_Neural_Networks
 This repository contains assignments completed in Improving Deep Learning Models- Hyperparameter_Tuning, Regularization, Optimization, Course By Andrew ng 
 
-![super-necessary](https://user-images.githubusercontent.com/73512374/191227645-ecd14833-36aa-4615-a4a9-a976bc99475a.png)
+![images](https://user-images.githubusercontent.com/73512374/191227645-ecd14833-36aa-4615-a4a9-a976bc99475a.png)
 
 
 Content Covered:
